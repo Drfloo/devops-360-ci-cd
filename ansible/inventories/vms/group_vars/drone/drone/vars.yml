@@ -1,0 +1,9 @@
+---
+
+drone_host: tp114.ccm.u13.org
+drone_admins:
+ - Lowess
+ - DrFloo
+
+drone_oauth_client: "{{ vault_drone_oauth_client }}"
+drone_oauth_secret: "{{ vault_drone_oauth_secret }}"
