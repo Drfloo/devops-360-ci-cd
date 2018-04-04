@@ -1,0 +1,3 @@
+---
+
+spa_repo_url: https://github.com/Drfloo/devops-360-react.git/releases/download/{{ spa_version }}/build.tar.gz
